@@ -1,0 +1,2 @@
+05/16 03:13:01 PM <utils.Bunch object at 0x7fe90c171f60>
+05/16 03:13:03 PM --------- Epoch: 0 ----------

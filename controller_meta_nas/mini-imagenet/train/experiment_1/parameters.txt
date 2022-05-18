@@ -1,0 +1,14 @@
+dataset:mini-imagenet
+seed:222
+epoch:10
+n_way:5
+k_spt:5
+k_qry:15
+batch_size:4
+test_batch_size:100
+meta_batch_size:4
+meta_test_batch_size:1
+meta_lr_w:0.001
+update_lr_w:0.01
+update_step:5
+update_step_test:10
